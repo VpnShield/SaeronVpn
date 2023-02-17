@@ -4,5 +4,5 @@
 "Link": "https://t.me/+PQroll5nU0s5MWI0",
 "Color": "#00BCD4",
 "Button": "عضویت",
-"Show": "on"
+"Show": "off"
 }
