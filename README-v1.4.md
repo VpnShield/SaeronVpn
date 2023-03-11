@@ -4,6 +4,6 @@
 "Link": "tg://join?invite=pM9MeBAJd6g4ZjZk",
 "Color": "#FFEB3B",
 "Button": "عضویت",
-"Show": "on"
+"Show": "off"
 }
 
