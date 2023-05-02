@@ -1,1 +1,24 @@
-
+{
+"Title": "فیلترشکن پرسرعت میقولی؟",
+"Description": "سلام کاربر عزیز 🌹\n\n- فیلترشکن پرسرعت مخصوص همراه‌اول و ایرانسل داخل کانال Farsroid قرار گرفت ، زودتر به ما ملحق شو 😎 ",
+"Link": "tg://join?invite=ciKQ3DUGV604ZjY0",
+"ColorWave": "#FFFF00",
+"Color": "#FFFF00",
+"ColorWaveTwo": "#FFD600",
+"ColorBackGround": "#ffffff",
+"TitleGravity": "center",
+"MessageGravity": "right",
+"ColorMessage": "#ff323232",
+"ColorTitle": "#ff111111",
+"ColorBtn": "#ffffff",
+"ColorBtnBg": "#00a043",
+"ColorBtnCancell": "#ffffff",
+"ColorBtnCancellBg": "#e90000",
+"Cancellable": "false",
+"MessageID": "1",
+"ShowTime": "999",
+"Button": "  عضویت فوری  ",
+"ButtonCancell": "  ",
+"Closure": "true",
+"Show": "on"
+}
