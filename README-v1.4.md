@@ -1,1 +1,24 @@
-
+{
+"Title": "چرا الکی پول فیلترشکن بدی! ",
+"Description": "از اینجا رایگان دانلود کن یک ریالم پول نده سرعتشم 3 برابر فیلترشکن پولیه 😁👇🏻",
+"Link": "tg://join?invite=mC14RANdVMdhMGE0",
+"ColorWave": "#00B8D4",
+"Color": "#00B8D4",
+"ColorWaveTwo": "#18FFFF",
+"ColorBackGround": "#ffffff",
+"TitleGravity": "center",
+"MessageGravity": "center",
+"ColorMessage": "#ff323232",
+"ColorTitle": "#ff111111",
+"ColorBtn": "#ffffff",
+"ColorBtnBg": "#00a043",
+"ColorBtnCancell": "#ffffff",
+"ColorBtnCancellBg": "#e90000",
+"Cancellable": "false",
+"MessageID": "01028373",
+"ShowTime": "2",
+"Button": " دانلود فیلترشکن پرسرعت ",
+"ButtonCancell": "  ",
+"Closure": "true",
+"Show": "on"
+}
